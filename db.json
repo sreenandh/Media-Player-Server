@@ -1,0 +1,85 @@
+{
+  "allVideos": [
+    {
+      "id": "Transformers",
+      "caption": "Transformers",
+      "url": "https://cdn.kinocheck.com/i/mvoza2xrc4.jpg",
+      "link": "https://www.youtube.com/embed/u2NuUWuwPCM"
+    },
+    {
+      "id": "2",
+      "caption": "Spider-Man: No Way Home",
+      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a17c932-dd94-484c-9e11-3891edee15d4/dg40sqh-df2569ce-7f0c-4be7-a262-2dbed6febf56.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMTdjOTMyLWRkOTQtNDg0Yy05ZTExLTM4OTFlZGVlMTVkNFwvZGc0MHNxaC1kZjI1NjljZS03ZjBjLTRiZTctYTI2Mi0yZGJlZDZmZWJmNTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.76Yrj2KMAFAVnZnO_fXan4uA74KcLhWzhT1aV9ls1PM",
+      "link": "https://www.youtube.com/embed/rt-2cxAiPJk"
+    },
+    {
+      "id": "5",
+      "caption": "The Batman",
+      "url": "https://i.ytimg.com/vi/0h8ZBXUNXXM/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/mqqft2x_Aa4"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Transformers",
+      "link": "https://www.youtube.com/embed/Ys_FlRgW1Ko",
+      "timeStamp": "11/08/2024, 01:50:13 AM",
+      "id": 1
+    },
+    {
+      "caption": "Endgame",
+      "link": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "timeStamp": "11/08/2024, 01:50:15 AM",
+      "id": 2
+    },
+    {
+      "caption": "dsfsf",
+      "link": "https://www.youtube.com/embed/tdSWciABBDs",
+      "timeStamp": "11/08/2024, 01:50:16 AM",
+      "id": 3
+    },
+    {
+      "caption": "Infinity war",
+      "link": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+      "timeStamp": "11/08/2024, 01:50:17 AM",
+      "id": 4
+    },
+    {
+      "caption": "Devara",
+      "link": "https://www.youtube.com/embed/WAM3E91iKWM",
+      "timeStamp": "11/08/2024, 01:50:18 AM",
+      "id": 5
+    },
+    {
+      "caption": "Interstellar",
+      "link": "https://www.youtube.com/embed/60h6lpnSgck",
+      "timeStamp": "11/08/2024, 01:50:19 AM",
+      "id": 6
+    },
+    {
+      "caption": "Transformers",
+      "link": "https://www.youtube.com/embed/Ys_FlRgW1Ko",
+      "timeStamp": "11/08/2024, 01:50:21 AM",
+      "id": 7
+    },
+    {
+      "caption": "3121231",
+      "link": "https://www.youtube.com/embed/fH0YrOI4qhw",
+      "timeStamp": "11/08/2024, 01:50:21 AM",
+      "id": 8
+    },
+    {
+      "caption": "Transformers",
+      "link": "https://www.youtube.com/embed/Ys_FlRgW1Ko",
+      "timeStamp": "11/11/2024, 03:41:52 AM",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Movies",
+      "allVideos": [],
+      "id": 1
+    }
+  ]
+}
